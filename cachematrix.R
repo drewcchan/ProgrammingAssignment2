@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-##Creates a list of functiona to save a matrix and inverse matrix and allow for retrieval 
+##Creates a list of functions to save a matrix and inverse matrix and allow for retrieval 
 ##by the cacheSolve function
 
 makeCacheMatrix <- function(x = matrix()) {
